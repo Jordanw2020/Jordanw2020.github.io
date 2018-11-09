@@ -43,7 +43,7 @@ ul.posts li {
 }
 
 .hero-image {
-  background-image: url("Jordanw2020.github.io/img/code-coding-computer-574073.jpg"); /* The image used */
+  background-image: url("https://raw.githubusercontent.com/Jordanw2020/Jordanw2020.github.io/master/img/code-coding-computer-574073.jpg"); /* The image used */
   background-color: #cccccc; /* Used if the image is unavailable */
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
